@@ -5,7 +5,7 @@ import './Pages.css';
 
 const AboutUs = () => {
   return (
-    <div className='pt-3 pb-3'>
+    <div className='pt-4 pb-4'>
         <Container className='p-4'>
             <Row>
                 <Col>

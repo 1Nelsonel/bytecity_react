@@ -11,12 +11,12 @@ const Hero = () => {
         <Container className='pt-4'>
             <Row>
                 <Col>
-                <div className="hero-text-heading p-3">
+                <div className="hero-text-heading p-4">
                     <h1>
                     ByteCity turning dreams into Multi Million Dollar success stories.
                     </h1>
                 </div>
-                <div className="hero-text-pararaph p-3">
+                <div className="hero-text-pararaph p-4">
                     <p>
                     We design program, launch & mantain custom Mobile Apps, 
                     Websites, Web Applications and software solutions for companies worldwide.
