@@ -1,0 +1,141 @@
+/* hero custom styles */
+.hero-image {
+  /* object-fit: cover !important; */
+  /* width: fit-content !important; */
+  width: 500px !important;
+  height: 500px !important;
+}
+
+/* about us custom styles */
+.about-us-image {
+  /* position: absolute; */
+  width: 90%;
+
+}
+
+/* about us header */
+.about-heading {
+  font-family: Poppins;
+  font-size: 45px;
+  font-weight: 700 !important;
+  line-height: 68px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
+.about-paragraph {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+
+  color: #333333;
+}
+
+/* why choose us section */
+.why-choose-us-header {
+  text-align: center;
+}
+.text-color-why-choose-us {
+  color: #1C94A5 !important;
+}
+
+/* hire us section */
+.hire-us {
+  background: #1C94A5;
+}
+
+.btn-warning {
+  background: #FCB040 !important;
+  color: white;
+}
+
+.hire-us-button {
+  display: flex;
+}
+
+.fw-bolder {
+  font-size: 26px !important;
+}
+/* clients */
+.clients-image {
+  /* object-fit: cover; */
+  width:100%;
+  height: 70px;
+}
+
+/* footer */
+.footer-logo {
+  width: 15rem;
+}
+
+.text-light li {
+  list-style: none !important;
+  padding: 0.5rem;
+}
+
+.btn-bg {
+  background-color: #FCB040 !important;
+}
+
+/* footer styles */
+.lower-nav {
+  padding: 5rem;
+}
+
+.link-left ul {
+  flex-wrap: nowrap;
+  display: flex !important;
+  float: left !important;
+
+}
+
+.link-right ul {
+  flex-wrap: nowrap;
+  display: flex !important;
+  float: right !important;
+  color: #1C94A5 !important;
+
+}
+
+li:hover {
+  color: #FCB040 !important;
+}
+
+li {
+  list-style: none;
+  cursor: pointer;
+}
+
+.list-underline li {
+  text-decoration: underline !important;
+}
+
+.underline {
+  position: relative;
+  padding: 5px;
+}
+
+.underline:after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  width: 50%;
+  height: 5px;
+  background-color: #FCB040;
+}
+
+.underline:before {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  right: 0;
+  width: 50%;
+  height: 5px;
+  background-color: white;
+}
+
+
